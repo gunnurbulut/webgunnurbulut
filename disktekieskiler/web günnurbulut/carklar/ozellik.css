@@ -1,0 +1,83 @@
+@charset "utf-8";
+body {
+	background-color: #000;
+}
+#ust {
+	height: 30px;
+	width: 650px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+#gorsel {
+	height: 150px;
+	width: 650px;
+	background-color: #FFF;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+}
+
+
+#icerik {
+	height: 150px;
+	width: 590px;
+	background-color: #FFF;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 30px;
+	padding-right: 30px;
+	padding-bottom: 30px;
+	padding-left: 30px;
+	font-family: "MS Serif", "New York", serif;
+	font-size: 14px;
+	line-height: 150%;
+	color: #C70102;
+}
+
+#menu {
+	background-color: #FFF;
+	text-align: center;
+	height: 30px;
+	width: 650px;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: "MS Serif", "New York", serif;
+	font-size: 16px;
+	color: #C40001;
+}
+
+
+#alt {
+	height: 30px;
+	width: 650px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#telıf {
+	font-family: "MS Serif", "New York", serif;
+	font-size: 16px;
+	color: #999;
+	text-align: center;
+	height: 30px;
+	width: 650px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 10px;
+}
+
+#zemin {
+	height: auto;
+	width: 650px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 30px;
+}
+#zeminurun {
+	height: auto;
+	width: 650px;
+	margin-top: 30px;
+	margin-right: auto;
+	margin-left: auto;
+}
