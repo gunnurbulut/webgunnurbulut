@@ -1,0 +1,36 @@
+@charset "utf-8";
+.mavi {
+	background-color: #00F;
+	float: left;
+	height: 200px;
+	width: 200px;
+}
+.acıkmavi {
+	background-color: #0FC;
+	float: left;
+	height: 200px;
+	width: 200px;
+}
+#bir {
+}
+#iki {
+}
+#üç {
+}
+#temizle1 {
+	clear: both;
+}
+#dort {
+}
+#bes {
+}
+#altı {
+}
+#temizle2 {
+}
+#yedi {
+}
+#sekiz {
+}
+#dokuz {
+}

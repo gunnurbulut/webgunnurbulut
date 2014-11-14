@@ -1,0 +1,125 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>ana sayfa</title>
+<!-- TemplateEndEditable -->
+<style type="text/css">
+#sayfa {
+}
+#sayfa {
+	background-color: #FFF;
+	height: 800px;
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#banner {
+}
+#sayfa #banner {
+	height: 230px;
+	width: 800px;
+	background-image: url(file:///C|/Users/Mahmut/Desktop/sablonlar_tom/images/images/banner.jpg);
+	background-repeat: no-repeat;
+}
+#menu {
+}
+#menu {
+}
+#sayfa #menu {
+	background-color: #de0025;
+	height: 30px;
+	width: 800px;
+	margin-bottom: 30px;
+}
+#icerik {
+	height: 20px;
+	width: 800px;
+}
+#sayfa #icerik {
+	height: auto;
+	width: 800px;
+}
+#tj_anlatım {
+}
+#sayfa #icerik #tj_anlatım {
+	height: 185px;
+	width: 740px;
+	margin-bottom: 35px;
+	margin-left: 30px;
+}
+#baglantılar {
+}
+#sayfa #icerik #baglantılar {
+	background-color: #f2f2f2;
+	height: 212px;
+	width: 741px;
+	margin-bottom: 40px;
+	margin-left: 30px;
+	padding-top: 3px;
+	text-align: center;
+}
+#alt {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #FFFFFF;
+	height: 22px;
+	width: 800px;
+	padding-top: 8px;
+}
+#sayfa #icerik #alt {
+	height: 22px;
+	width: 800px;
+	text-align: center;
+	background-image: url(file:///C|/Users/Mahmut/Desktop/sablonlar_tom/images/images/bg_alt.jpg);
+	background-repeat: repeat-x;
+	padding-top: 8px;
+}
+#sol {
+}
+#sayfa #icerik #tj_anlatım #sol {
+	float: left;
+	height: 185px;
+	width: 240px;
+}
+#sag {
+}
+#sayfa #icerik #tj_anlatım #sag {
+	float: right;<hr />
+<hr />
+
+	height: 185px;
+	width: 500px;
+}
+#baglhikaye {
+}
+#sayfa #icerik {
+}
+</style>
+<link href="file:///C|/Users/Mahmut/Desktop/sablonlar_tom/still.css" rel="stylesheet" type="text/css" />
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+
+<div id="sayfa">
+  <div id="banner"></div>
+  <div id="menu">
+    <ul>
+      <li><a href="file:///C|/Users/Mahmut/Desktop/sablonlar_tom/jerry.html">Ana Sayfa</a></li>
+      <li><a href="file:///C|/Users/Mahmut/Desktop/sablonlar_tom/hikaye.html">Hikaye</a></li>
+      <li><a href="file:///C|/Users/Mahmut/Desktop/sablonlar_tom/karakterler.html">Karakterler</a></li>
+      <li><a href="file:///C|/Users/Mahmut/Desktop/sablonlar_tom/fotoğraflar.html">Fotoğraflar</a></li>
+      <li><a href="file:///C|/Users/Mahmut/Desktop/sablonlar_tom/video.html">Video</a></li>
+      <li><a href="file:///C|/Users/Mahmut/Desktop/sablonlar_tom/iletişim.html">İletişim</a></li>
+    </ul>
+  </div>
+  <div id="icerik"><!-- TemplateBeginEditable name="icerik" -->içerik bilgilerini buraya girin<!-- TemplateEndEditable -->
+    <div id="alt">Copyright &copy; 2014</div>
+  </div>
+</div>
+</body>
+</html>
