@@ -1,0 +1,133 @@
+body {
+	background-image: url(images/bg.jpg);
+	background-repeat: repeat;
+}
+#zemin {
+	height: auto;
+	width: 980px;
+	background-color: #FFF;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 10px;
+	border: 1px solid #CCC;
+	border-radius:10px;
+}
+#ust {
+	height: 150px;
+	width: 980px;
+}
+#logo {
+	float: left;
+	height: 150px;
+	width: 189px;
+}
+#menu {
+	background-image: url(images/bgMenu.png);
+	background-repeat: no-repeat;
+	float: left;
+	height: 40px;
+	width: 790px;
+	margin-top: 55px;
+}
+#zemin #ust #menu ul {
+	list-style-type: none;
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 20px;
+}
+#zemin #ust #menu ul li a {
+	display: block;
+	height: 40px;
+	width: 110px;
+	float: left;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #090;
+	font-size: 16px;
+	text-decoration: none;
+	line-height: 40px;
+}
+#zemin #ust #menu ul li a:hover {
+	display: block;
+	height: 40px;
+	width: 110px;
+	float: left;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #000;
+	font-size: 16px;
+	text-decoration: none;
+	line-height: 40px;
+}
+#ust_temizle {
+	clear: both;
+}
+#icerik_temizle {
+	clear: both;
+}
+#alt {
+	font-family: "Arial Black", Gadget, sans-serif;
+	height: 30px;
+	width: 980px;
+	font-size: 12px;
+	line-height: 30px;
+}
+#banner {
+	height: 303px;
+	width: 980px;
+	margin-top: 10px;
+	background-image: url(images/bgSlide.png);
+	background-repeat: no-repeat;
+	background-position: bottom;
+	padding-bottom: 12px;
+}
+#banner_alti {
+	background-image: url(images/divider.png);
+	background-repeat: no-repeat;
+	height: 26px;
+	width: 980px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+#icerik {
+	height: 200px;
+	width: 980px;
+}
+#icerik_sol {
+	float: left;
+	height: 188px;
+	width: 288px;
+	border: 1px solid #ECEADD;
+	background-color: #D1C3B8;
+	padding: 5px;
+	text-align: justify;
+	font-size: 14px;
+	border-radius:5px;
+}
+#zemin #icerik #icerik_sol h1 {
+	font-size: 14px;
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #000;
+	padding-bottom: 2px;
+	margin-top: 3px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+#icerik_orta {
+	float: left;
+	height: 200px;
+	width: 300px;
+	margin-right: 20px;
+	margin-left: 20px;
+	background-image: url(images/urun.png);
+	background-repeat: no-repeat;
+}
+#icerik_sag {
+	float: left;
+	height: 200px;
+	width: 340px;
+}
